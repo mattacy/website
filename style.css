@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+.circle {
+    border: 5px solid #3292ca;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-pic {
+    margin-top: 60px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bio-content {
+
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
